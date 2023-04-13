@@ -1,0 +1,112 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bgImg {
+    background-image: url("https://c0.wallpaperflare.com/preview/241/384/859/analysis-analytics-analyzing-annual.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.insideBgImg {
+    background-image: url("https://searchengineland.com/wp-content/seloads/2014/08/analytics-data-ss-19201.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.insideBgImg1 {
+    background-image: url("https://realitypaper.com/wp-content/uploads/2021/01/pasted-image-0.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.insideBgImg2 {
+    background-image: url("https://university.help.edu.my/wp-content/uploads/2020/09/MABA_img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.insideBgImg3 {
+    background-image: url("https://hexaware.com/wp-content/uploads/2019/10/Advanced-Analytics-Services.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.insideBgImg4 {
+    background-image: url("https://techblogcorner.com/wp-content/uploads/2018/07/Online_video_analytics_tools_original.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.insideBgImg5 {
+    background-image: url("https://techblogcorner.com/wp-content/uploads/2018/07/Online_video_analytics_tools_original.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.insideBgImg6 {
+    background-image: url("http://www.idetectgroup.com.au/wp-content/uploads/2020/07/analytics.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+}
+
+.contentBgImg {
+    background-image: url("https://www.icmef.org/wp-content/uploads/2018/10/Web-Page-Background-Color.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 83.2vh;
+    overflow: auto;
+}
+
+.navbar {
+    z-index: 1;
+    opacity: .9;
+}
+
+.range {
+    width: 18vw;
+}
+
+button,
+.navbar {
+    width: 100%;
+}
+
+.sideBar {
+    background-color: #1976d2;
+}
+
+.sideBar .button:hover {
+    background-color: rgb(11, 108, 182);
+}
+
+.logout {
+    margin-top: 19rem;
+    padding-bottom: 1.5rem;
+}
+
+.img {
+    width: 4vw;
+}
+
+.analysisReportTable {
+    margin-top: 5rem;
+}
